@@ -320,7 +320,7 @@ main .expenses>div  span{
   background-color: #f3e8ff;
 }
 main .order>div  span{
- background: ;
+ background: #6285fa;
   padding: 0.5rem;
    border-radius: 50%;
    color: var(--clr-white);
@@ -704,12 +704,7 @@ MEDIA QUERY PHONE
 
 
   footer{
-  padding: 20px;
-  margin-left: 2rem;
-  justify-content: center;
- position: fixed;
+  text-align: center;
+  color:#111e88;
 }
-footer p{
-  color: color(srgb red green blue);
-  font-size: 100px ;
 }
